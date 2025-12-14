@@ -39,7 +39,7 @@ $ python app-gui.py
 # APP GUI
 
 ### Home Page
-![homepage](https://i.ibb.co/c62qvR2/home-page.png)
+![homepage]([https://i.ibb.co/c62qvR2/home-page.png](https://drive.google.com/file/d/1NZ1qugCd3PaCWcjzlmPUB39GRUTfL5kz/view?usp=sharing))
 
 ### Add a User <br>
 Add the user you want to train a classifier for <br>
